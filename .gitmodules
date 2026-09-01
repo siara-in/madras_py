@@ -1,0 +1,3 @@
+[submodule "src/madras-trie"]
+	path = src/madras-trie
+	url = https://github.com/siara-cc/madras-trie
